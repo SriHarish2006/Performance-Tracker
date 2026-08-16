@@ -234,8 +234,7 @@ The dashboard includes KPI cards, line/area charts, donut charts, interactive sl
 
 Computer Science Engineer | Data Analyst | Business Intelligence Developer | AI & ML Enthusiast
 
-* GitHub: [SriHarish2006](https://github.com/SriHarish2006)
-* LinkedIn: [Sri Harish](https://www.linkedin.com/in/sri-harish-2b34a930a)
+* LinkedIn: [[Sri Harish](https://www.linkedin.com/in/sri-harish-2b34a930a)](https://www.linkedin.com/in/sri-harish-03219432b/)
 
 ---
 
